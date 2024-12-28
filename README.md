@@ -2,6 +2,7 @@
 1) [Flight Challenge](https://github.com/Tyler-Hilbert/ml-basics/blob/master/challenges/Flight_Challenge.ipynb)  
 2) [Real Estate Challenge](https://github.com/Tyler-Hilbert/ml-basics/blob/master/challenges/RealEstate_Challenge.ipynb)  
 3) [Wine Classification Challenge](https://github.com/Tyler-Hilbert/ml-basics/blob/master/challenges/WineClassification_Challenge.ipynb)  
+4) [Clustering Challenge](https://github.com/Tyler-Hilbert/ml-basics/blob/master/challenges/Clustering_Challenge.ipynb)  
 
 -------------------------------------------------------------------  
 
