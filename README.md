@@ -3,6 +3,7 @@
 2) [Real Estate Challenge](https://github.com/Tyler-Hilbert/ml-basics/blob/master/challenges/RealEstate_Challenge.ipynb)  
 3) [Wine Classification Challenge](https://github.com/Tyler-Hilbert/ml-basics/blob/master/challenges/WineClassification_Challenge.ipynb)  
 4) [Clustering Challenge](https://github.com/Tyler-Hilbert/ml-basics/blob/master/challenges/Clustering_Challenge.ipynb)  
+5-PyTorch) [Safari Challenge PyTorch](https://github.com/Tyler-Hilbert/ml-basics/blob/master/challenges/Clustering_Challenge_PyTorch.ipynb)  
 
 -------------------------------------------------------------------  
 
