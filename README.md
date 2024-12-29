@@ -1,9 +1,10 @@
-## Progress So Far
+## Challenges
 1) [Flight Challenge](https://github.com/Tyler-Hilbert/ml-basics/blob/master/challenges/Flight_Challenge.ipynb)  
 2) [Real Estate Challenge](https://github.com/Tyler-Hilbert/ml-basics/blob/master/challenges/RealEstate_Challenge.ipynb)  
 3) [Wine Classification Challenge](https://github.com/Tyler-Hilbert/ml-basics/blob/master/challenges/WineClassification_Challenge.ipynb)  
 4) [Clustering Challenge](https://github.com/Tyler-Hilbert/ml-basics/blob/master/challenges/Clustering_Challenge.ipynb)  
 5) [Safari Challenge PyTorch](https://github.com/Tyler-Hilbert/ml-basics/blob/master/challenges/Safari_Challenge_PyTorch.ipynb)  
+5) [Safari Challenge Keras](https://github.com/Tyler-Hilbert/ml-basics/blob/master/challenges/Safari_Challenge_Keras.ipynb) 
 
 -------------------------------------------------------------------  
 
